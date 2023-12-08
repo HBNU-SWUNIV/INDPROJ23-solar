@@ -49,6 +49,7 @@ MQTT로 데이터를 수신했다면
 
 받은 데이터를 주기적으로 서버에 표시해준다.
 
+ - #### 태양광 발전 충전박스 제작 사진 및 동작 사진
 ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/478ca398-0a74-4f1f-9052-2636ab116e01)
 ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/b5a4f431-832b-4a3e-8d42-e0f21823468b)
 
@@ -60,6 +61,3 @@ MQTT로 데이터를 수신했다면
 
 ## Conclusion
   -  본 과제를 통해 제작한 태양광 발전 휴대전화 충전박스는 탄소배출 줄이기가 대두되고 있는 현재 탄소배출을 줄이고 전기의 사용이 용이하지 않은 장소에서 휴대폰 충전이 가능하고 효율적인 전력관리가 가능한 시스템임을 확인 할 수 있었다.
-  
-## Project Outcome
-- ### 20XX 년 OO학술대회 
