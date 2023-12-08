@@ -27,8 +27,34 @@
     
 ## Case Study
   - ### Description
-  
-  
+  ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/9014e0dc-c33f-4d4a-aec2-bbe3af4bf661)
+
+전력 센서로 들어온 데이터를 웹 페이지에 표시한다.
+ 
+ ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/3f7a46dc-4519-4cc1-8452-ef3b91d0af96)
+ 
+ 서버를 구동했을 때,
+ 
+ ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/1a52dea9-c0c6-4452-a308-e6657080fd2b)
+
+아직 데이터가 들어오지 않은 초기 화면으로 no Op로 표시한다.
+![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/fc4b4f28-cb7e-48e6-87b3-fdf75dbbc1d5)
+
+MQTT로 데이터를 수신했다면
+
+![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/8fc17eb3-a46f-4f48-922f-fd49b796ae1f)
+
+받은 데이터를 주기적으로 서버에 표시해준다.
+
+![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/478ca398-0a74-4f1f-9052-2636ab116e01)
+![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/b5a4f431-832b-4a3e-8d42-e0f21823468b)
+
+태양광 패널, 배터리, 충전 컨트롤러, 인버터로 충전 시스템을 구성하고 아두이노 컨트롤러로 충전 박스에 있는 배터리 전압, 충전량, 사용량을 MQTT로 publish한다. 휴대폰을 충전해본 결과, 정상적으로 충전이 되었고
+
+![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/3640fd42-bf62-479f-912a-23fc674f9bda)
+
+브라우저 상에서도 충전 박스의 사용 상태도 잘 표시되었다.
+
 ## Conclusion
   -  본 과제를 통해 제작한 태양광 발전 휴대전화 충전박스는 탄소배출 줄이기가 대두되고 있는 현재 탄소배출을 줄이고 전기의 사용이 용이하지 않은 장소에서 휴대폰 충전이 가능하고 효율적인 전력관리가 가능한 시스템임을 확인 할 수 있었다.
   
