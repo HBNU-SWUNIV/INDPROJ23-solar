@@ -37,7 +37,7 @@
  
  ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/1a52dea9-c0c6-4452-a308-e6657080fd2b)
 
-아직 데이터가 들어오지 않은 초기 화면으로 no Op로 표시한다.
+아직 데이터가 들어오지 않은 초기 화면으로 no Op로 표시된 것을 볼 수 있다.
 ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-solar/assets/131341115/fc4b4f28-cb7e-48e6-87b3-fdf75dbbc1d5)
 
 MQTT로 데이터를 수신했다면
